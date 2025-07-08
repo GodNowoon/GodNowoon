@@ -1,10 +1,10 @@
 ## Hi there 👋
-
-<!--
-**GodNowoon/GodNowoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 안녕하십니까
 ## 처음부터 시작해서 바꾸겠습니다
 ### Comming soon...
+<!--
+**GodNowoon/GodNowoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
